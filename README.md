@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [React + Vite + Tailwind CSS]
 # About: 📝Task-2-Do
 
@@ -55,3 +56,4 @@ npm install
 bash__
 npm run dev
  (or npm start depending on your setup)
+                                                                                                                   
