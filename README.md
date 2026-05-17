@@ -1,6 +1,3 @@
-<img width="722" height="1559" alt="mobile_res_todo1" src="https://github.com/user-attachments/assets/70a09c10-6d1e-4c9f-8f9c-2a8927b6e0db" />
-<img width="722" height="1600" alt="mobile_res_todo0" src="https://github.com/user-attachments/assets/cb4efa03-1607-445d-be84-1afb6d31c6d5" />
-<<<<<<< HEAD
 # [React + Vite + Tailwind CSS]
 # About: 📝Task-2-Do
 
