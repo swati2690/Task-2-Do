@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import './App.css'
 import Navbar from './Components/Navbar'
-import Logo from './Components/logo';
+import Logo from './Components/Logo';
 import { v4 as uuidv4 } from "uuid";
 import { Eye, EyeOff, CircleAlert } from 'lucide-react';
 
