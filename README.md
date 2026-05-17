@@ -8,7 +8,7 @@ It allows users to easily organize their daily routines by adding, tracking, edi
 **Full CRUD Operations**
  Add | Read | Edit | Delete, tasks seamlessly.
 
-**Responsive Layout**
+** Responsive Layout **
 Mobile-first design that looks great on all screen sizes.
 
 **Task Validation**
